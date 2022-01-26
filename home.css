@@ -1,0 +1,121 @@
+header{
+background-color: #EEC80E;
+display: flex;
+justify-content: space-between ;
+height: 4em;
+
+}
+
+body{
+font-family: Microsoft New Tai Lue;
+padding: none;
+margin: 0em;
+text-align: center;
+background-color:#F2F1F1;
+
+}
+
+    
+.Logo{
+max-width: 6em;
+height: 4em;
+margin-top: 0.3em;
+margin-left: 2em;
+padding-right: 1em; 
+
+}
+
+.Globus{
+max-width: 3em;
+height: 2em;
+margin-top: 1em;
+padding-left: 1em;
+padding-right: 2em;
+
+} 
+   
+h1{
+font-family: Microsoft New Tai Lue;
+font-size: 30px;
+font-weight: bold;
+margin-top: 2em;
+padding-bottom: none;
+    
+} 
+
+.form_group1{
+font-size: 1.5em; 
+font-family: Microsoft New Tai Lue;
+
+} 
+
+.form_group2{
+font-size: 1.5em;
+font-family: Microsoft New Tai Lue;
+
+} 
+
+
+.Accept{
+width: 1.5em;
+height: 1.5em;
+margin-top: 1.5em;
+padding-left: 1em;
+
+}
+
+h6{
+font-size: 13px;
+margin-top: 2em;
+
+}
+
+.txtbox{
+width: 20em;
+height: 3em;
+border-radius: 2px;
+border-color: #D40511;
+
+}
+
+.number{
+width: 20.5em;
+height: 3.5em;
+border-radius: 2px;
+border-color: #D40511;
+
+    
+}
+
+.submit-button{
+width: 20em;
+height: 4em;
+border: none;
+background: #D40511;
+font-family: Microsoft New Tai Lue;
+font-weight: bold;
+color: #ffff; 
+font-size: 15px;
+
+}
+
+.baccept{
+display: flex;
+justify-items: center;
+flex-direction: row;
+padding-left: 5em;
+padding-top: 12em;
+   
+  
+}
+
+.Knap{
+padding-bottom: 27em;
+
+}
+
+.main{
+padding-top: 6em;
+
+}
+

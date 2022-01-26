@@ -1,0 +1,73 @@
+header {
+background-color: #EEC80E;
+display: flex;
+justify-content: space-between ;
+height: 4em;
+
+}
+
+body {
+font-family: Microsoft New Tai Lue;
+padding: none;
+margin: 0em;
+text-align: center;
+background-color:#F2F1F1;
+
+}
+  
+.Logo {
+max-width: 6em;
+height: 4em;
+margin-top: 0.3em;
+margin-left: 2em;
+padding-right: 1em; 
+
+} 
+   
+h1 { font-family: Microsoft New Tai Lue;
+font-size: 30px;
+margin-top: 2em;
+padding-bottom: 3em;
+    
+} 
+
+.password_text {
+position: absolute;
+left: 41%;
+margin-top: 2%;
+font-family: Microsoft New Tai Lue;
+color:black;
+
+}
+
+.txtbox {
+width: 20em;
+height: 3em;
+border-radius: 2px;
+border-color: #D40511;
+
+}
+
+
+.submit-button{
+width: 20em;
+height: 4em;
+border: none;
+background: #D40511;
+font-family: Microsoft New Tai Lue;
+font-weight: bold;
+color: #ffff; 
+font-size: 15px;
+
+}
+
+.Knap{
+padding-top: 29em;
+padding-left: 2%;
+
+}
+
+.main1{
+padding-top: 3em;
+
+}
